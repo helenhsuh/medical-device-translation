@@ -30,3 +30,80 @@ This is a **conceptual engineering project**, not a production system. It demons
 ---
 
 ## 🧱 Repository Structure
+
+medical-device-translation/
+│
+├── docs/
+│   ├── project_overview.md
+│   ├── ethical_considerations.md
+│   ├── device_attributes.md
+│   ├── roadmap.md
+│
+└── notebooks/
+    ├── 01_problem_definition.ipynb
+    ├── 02_device_attributes_and_features.ipynb
+    ├── 03_nlp_text_parsing_exploration.ipynb
+    ├── 04_classification_logic_and_rules.ipynb
+    ├── 05_risk_class_mapping.ipynb
+    └── 06_evaluation_and_next_steps.ipynb
+
+  
+---
+
+## 🛠️ Technical Concepts Explored
+
+### **1. Device Attribute Extraction**
+- Intended use  
+- Anatomical location  
+- Duration of contact  
+- Invasiveness  
+- Materials  
+- Sterility  
+
+### **2. NLP (Foundational)**
+- Parsing unstructured device descriptions  
+- Extracting relevant keywords  
+- Mapping text to structured attributes  
+
+### **3. Classification Logic**
+- Rule‑based mapping  
+- Decision trees (conceptual)  
+- Potential ML approaches  
+
+### **4. Risk Class Mapping**
+- Class I, II, III logic  
+- Special controls  
+- Predicate device considerations  
+
+---
+
+## 🤝 My Contributions
+
+This is an independent project. I contributed to:
+
+- Problem definition  
+- Regulatory research  
+- Attribute schema design  
+- Classification logic  
+- NLP exploration  
+- Ethical considerations  
+- Documentation and roadmap  
+
+---
+
+## 🚀 Next Steps
+
+- Build a synthetic dataset of device descriptions  
+- Implement simple NLP pipelines  
+- Prototype rule‑based classification  
+- Explore ML‑assisted classification  
+- Add evaluation metrics  
+- Document limitations and responsible use  
+
+---
+
+## 📬 Contact
+
+Helen Suh  
+Email: helen.suh@gmail.com  
+LinkedIn: https://www.linkedin.com/in/helen-suh-healthben/ 
