@@ -47,10 +47,30 @@ medical-device-translation/
     ├── 05_risk_class_mapping.ipynb
     └── 06_evaluation_and_next_steps.ipynb
 
- To explore this project:
-- Start with docs/project_overview.md
-- Review the attribute schema in docs/device_attributes.md
-- Explore conceptual notebooks in the notebooks/ folder 
+## How to Navigate This Repo
+
+To explore this project in a structured way:
+
+1. Start with **docs/project_overview.md**  
+   A high-level explanation of the problem, goals, and system design.
+
+2. Review **docs/device_attributes.md**  
+   The attribute schema that drives classification logic.
+
+3. Read **docs/ethical_considerations.md**  
+   The responsible‑AI framing and regulatory context.
+
+4. Look at **docs/roadmap.md**  
+   The planned phases and future development.
+
+5. Explore the **notebooks/** folder  
+   Each notebook walks through a conceptual part of the system:
+   - 01: Problem definition  
+   - 02: Device attributes & features  
+   - 03: NLP exploration  
+   - 04: Classification logic  
+   - 05: Risk class mapping  
+   - 06: Evaluation & next steps  
 ---
 
 ## 🛠️ Technical Concepts Explored
