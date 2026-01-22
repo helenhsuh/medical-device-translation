@@ -47,7 +47,10 @@ medical-device-translation/
     ├── 05_risk_class_mapping.ipynb
     └── 06_evaluation_and_next_steps.ipynb
 
-  
+ To explore this project:
+- Start with docs/project_overview.md
+- Review the attribute schema in docs/device_attributes.md
+- Explore conceptual notebooks in the notebooks/ folder 
 ---
 
 ## 🛠️ Technical Concepts Explored
