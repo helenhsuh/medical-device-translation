@@ -129,4 +129,4 @@ This is an independent project. I contributed to:
 
 Helen Suh  
 Email: helen.suh@gmail.com  
-LinkedIn: https://www.linkedin.com/in/helen-suh-healthben/ 
+LinkedIn: https://www.linkedin.com/in/helenhsuh/ 
